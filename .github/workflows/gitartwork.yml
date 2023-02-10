@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: xenoncolt
             # Text on contribution graph 
-            text: xenon
+            text: XENON
        - uses: jasineri/simple-push-action@v1
