@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 <h3 align="center">A Web and Discord Bot Developer</h3>
 
-![gitartwork](gitartwork.svg)
+
 
 [![profile-view](https://visitcount.itsvg.in/api?id=xenoncolt&icon=5&color=6)](https://visitcount.itsvg.in)
 
