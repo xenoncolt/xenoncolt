@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
-<h3 align="center">A Web and Developer</h3>
 
 
 
