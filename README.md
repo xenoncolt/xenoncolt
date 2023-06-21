@@ -4,6 +4,7 @@
 
 <p align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=xenoncolt&amp;icon=5&amp;color=6" alt="profile-view"></a></p>
 
+<p align="center"><a href="https://discord.com/users/709210314230726776"><img src="https://lanyard.cnrad.dev/api/709210314230726776" alt="profile-view"></a></p>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xenoncolt&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""><br/>
