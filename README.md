@@ -18,7 +18,6 @@
 
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=xenoncolt&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
 
 
 
