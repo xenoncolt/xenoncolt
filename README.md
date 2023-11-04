@@ -34,10 +34,3 @@
 
 
 <p align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=h03pvhdfx8waarcmnh6dww6t2&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=h03pvhdfx8waarcmnh6dww6t2&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cdn.discordapp.com/attachments/832180255103385650/1045688545475579954/Rocketpay.png) 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
