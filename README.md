@@ -17,6 +17,9 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=git,androidstudio,docker,cpp,bash,cloudflare,gradle,js,kotlin,nodejs,rust"/></p>
 
 
+<p align="center">  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@xenoncolt/f737e199-9153-4178-b3af-82815ca1cd74.png" /></a> </p>
+
+
 
 
 
