@@ -34,3 +34,6 @@
 
 
 <p align="center"><a href="https://discord.gg/MyMUhVTttu"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&amp;logoColor=white" alt="Discord"></a> <a href="https://facebook.com/codenheaven"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/xenoncolt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://linkedin.com/in/xenoncolt"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://reddit.com/user/xenoncolt"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a> <a href="https://twitch.tv/xenoncolt"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" alt="Twitch"></a> <a href="https://youtube.com/@xenoncolt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" alt="YouTube"></a> </p>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/xenoncolt/xenoncolt/output/github-contribution-grid-snake-dark.svg" alt=""></p>
