@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 
 
-
-<p align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=xenoncolt&amp;icon=5&amp;color=6" alt="profile-view"></a></p>
+<p align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=xenoncolt&label=Profile%20Views&pretty=true" alt="profile-view"></a></p>
 <p align="center"><a href="https://wakatime.com/@018ce3a0-b23d-4b9e-a01e-74822d0dc65c"><img src="https://wakatime.com/badge/user/018ce3a0-b23d-4b9e-a01e-74822d0dc65c.svg" alt="Total time coded since Jan 7 2024" /></a></p>
 
 <p align="center"><a href="https://discord.com/users/709210314230726776"><img src="https://lanyard.cnrad.dev/api/709210314230726776" alt="profile-view"></a></p>
